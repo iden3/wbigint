@@ -19,5 +19,8 @@
     "url": "https://github.com/iden3/wbigint.git"
   },
   "author": "Jordi Baylina",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "big-integer": "^1.6.36"
+  }
 }
