@@ -1,0 +1,19 @@
+{
+  "name": "wbigint",
+  "version": "0.0.1",
+  "description": "Wrapper to BigInt Native or simulate depending if supported.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "big",
+    "integer",
+    "number",
+    "calculus",
+    "BigInt",
+    "wrapper"
+  ],
+  "author": "Jordi Baylina",
+  "license": "GPL-3.0"
+}
